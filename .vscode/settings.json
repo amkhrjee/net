@@ -2,5 +2,6 @@
     "files.associations": {
         "types.h": "c"
     },
-    "C_Cpp.default.compilerPath": "/usr/bin/gcc"
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "editor.fontLigatures": true
 }
